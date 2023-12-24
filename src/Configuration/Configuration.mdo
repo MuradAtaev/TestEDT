@@ -40,4 +40,5 @@
   </languages>
   <commonCommands>CommonCommand.НатиТоварПоНазванию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПродажаТовара</documents>
 </mdclass:Configuration>
